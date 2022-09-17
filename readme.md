@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Nur</h1>
-<h3 align="center">Kendimi web tasarımında ilerlemek istiyorum.</h3>
+<h3 align="center">I want to improve in web design.</h3>
 
 <h3 align="left">Bana bağlanın: </h3>
 <p align="left">
